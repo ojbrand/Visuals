@@ -1,4 +1,4 @@
-# Tableau Visualization Project
+# IMDB Show Data Portal
 
 This repository highlights a Tableau visualization project designed to provide insight on IMBD show rating when you are looking for something to watch. 
 
